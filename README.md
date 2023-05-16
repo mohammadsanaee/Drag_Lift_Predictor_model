@@ -1,5 +1,5 @@
 # Drag_Lift_Predictor_model
-If you use this model in your research, please cite:
+If you use this model in your research, please cite:  
 .
 .
 .
