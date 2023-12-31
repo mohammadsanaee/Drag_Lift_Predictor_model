@@ -1,4 +1,4 @@
-# Drag_Lift_Predictor_model
+# model
 If you use this model in your research, please cite: 
 .  
 .  
